@@ -3,10 +3,8 @@
 > Experiments with Rancher in Vagrant
 
 <div style='background-color: #0075a8; padding: 20px; border-radius: 25px;'>
-![][RANCHERIMG]
+<img src="http://rancher.com/wp-content/themes/rancher-2016/assets/images/rancher-logo-white.png">
 </div>
-
-[RANCHERIMG]: http://rancher.com/wp-content/themes/rancher-2016/assets/images/rancher-logo-white.png
 
 ## Prerequisites
 
